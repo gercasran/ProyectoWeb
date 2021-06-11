@@ -43,18 +43,18 @@ p.clasificacion input:checked~label {
     top: 80px;
     width: 40%;
     background-color: #021643;
-    height: 75px;
-    position: sticky;
+    height: 40px;
     color: #fff;
     margin-left: 65%;
+    margin-right: auto;
 }
 
 .menu2>.boton {
-    margin: 10px;
+    
     font-weight: bold;
     color: #fff;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
     width: auto;
     float: left;
 }
@@ -125,13 +125,14 @@ p.clasificacion input:checked~label {
     text-align: left;
 }
 .comments{
-    margin-top: 12px;
-    margin-left: 220px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
     border: #e87000 2px solid;
     height:750px;
-    width: 50%;
-   border-color: transparent;
-    
+    width: 60%;
+    border-color: transparent;
     
 }
 .general{
@@ -141,23 +142,28 @@ p.clasificacion input:checked~label {
     display: flex;
     border: #e87000 2px solid;
     margin: 20px;
-        border-color: transparent;
+    border-color: transparent;
+        
 }
 span{
     text-align: center;
     justify-content: center;
 }
 .Imagenes{
-   margin: 20px;
+   margin: 10px;
+   
+   margin-bottom: 10px;
     border: #e87000 2px solid;
     height:750px;       
-    width: 50%;
-    margin-left: 20px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
     vertical-align: middle;
     display: flex;
     align-content: center;
     flex-direction: column;
     border-color: transparent;
+
 }
 .Imagen1{
     background-image: url(../Media/Imagenes/Imagen2.jpg);
