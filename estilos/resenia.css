@@ -46,7 +46,7 @@ p.clasificacion input:checked~label {
     height: 75px;
     position: sticky;
     color: #fff;
-    margin-left: 900px;
+    margin-left: 65%;
 }
 
 .menu2>.boton {
